@@ -12,7 +12,7 @@ function Header() {
             <div className="flex items-center justify-between bg-white">
                 {/* logo */}
                 <div className='flex items-center cursor-pointer'>
-                    <img src={logo} className="w-60" />
+                    <img src={logo} className="w-72 sm:w-60" />
                 </div>
 
 
