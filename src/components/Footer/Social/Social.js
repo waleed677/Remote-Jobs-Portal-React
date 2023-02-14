@@ -6,7 +6,7 @@ import { FaGithub } from 'react-icons/fa';
 
 function Social() {
   return (
-    <div className='md:flex md:justify-between md:items-center gap-8'>
+    <div className='flex md:justify-between gap-8 justify-center'>
             <a href='#'><FaLinkedin className='text-2xl text-white'/></a>
             <a href='#'><FaInstagram className='text-2xl text-white'/></a>
             <a href='#'> <FaTwitter className='text-2xl text-white'/></a>
